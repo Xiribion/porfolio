@@ -1,4 +1,4 @@
-let menuVisible = false;
+/*let menuVisible = false;
 //Función que oculta o muestra el menu
 function mostrarOcultarMenu(){
     if(menuVisible){
@@ -46,4 +46,4 @@ function copiarUrl(){
     let button=document.getElementById('copy');
 
     navigator.clipboard.writeText(url.textContent);
-}
+}*/
